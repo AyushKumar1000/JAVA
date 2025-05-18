@@ -10,7 +10,7 @@ public class Ex1_JFrameAss {
         f.add(b); // adding button in JFrame
         f.setSize(400, 500); // Setting size of frame (width, height)
         f.setLayout(null); // using no layout managers
-        f.setVisible(true); // making the frame visible
+        
         f.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // setting close operation
     }
 }
